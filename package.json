@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "@playwright/test": "^1.51.1",
+    "network": "^0.7.0",
+    "playwright": "^1.51.1"
+  },
+  "name": "validacao-ips",
+  "version": "1.0.0",
+  "main": "lista-ips.js",
+  "scripts": {
+    "test": "playwright test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
+
+
