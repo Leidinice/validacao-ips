@@ -68,4 +68,4 @@ Os testes estão definidos em tests/access-ips.spec.js. O Playwright tenta acess
 ## Dependências
 Playwright: Playwright - Biblioteca de automação para navegadores.
 
-Network: Network - Biblioteca usada para listar interfaces de rede (substituída pelo os.networkInterfaces() na versão atual).
+Network: Network - Biblioteca usada para listar interfaces de rede (substituída pelo os.networkInterfaces() na versão atual).q
